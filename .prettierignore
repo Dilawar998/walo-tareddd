@@ -1,0 +1,4 @@
+node_modules
+config/environments
+client/node_modules
+client/build
